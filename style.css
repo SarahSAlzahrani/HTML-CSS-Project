@@ -1,0 +1,92 @@
+body {
+    font-family: "Trirong", serif;
+  }
+#body1  {
+    background-image: linear-gradient(#9297e2, #e46568);
+    background-color: #ffffff;
+    background-attachment: fixed;
+    font-family: "Trirong", serif;
+  }
+
+#body2{
+    background-image: url(background-image.png);
+    background-color: #ffffff;
+    font-family: "Trirong", serif;
+}
+.sec1 {
+    float: left;
+}
+
+.c1 {
+    text-indent: 1em;
+}
+.c4{
+    padding-left: 50px;
+    padding-bottom: 10px;
+
+}
+#td1, #td2{
+    text-align: left;
+
+}
+
+hr{
+    border: 1px dotted #817e7e;
+    border-style: dotted; 
+  
+}
+
+table, td {
+    border:1px solid rgb(150, 185, 154);
+  }
+
+  td {
+    height: auto;
+    width: 180px;
+    text-align: center;
+    vertical-align: middle;
+}
+.button {
+    border-radius: 8px;
+    background-color: #ff4741; 
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 50px;
+    position: absolute; 
+    margin-left:-50px;
+    left:50%;
+}
+
+.contactMe{
+text-align: center;
+
+}
+
+#yname, #yemail {
+    width: 50%;
+  }
+
+#ymes{
+    height: 200px;
+    width: 50%;
+}
+
+#sumbit{
+    border-radius: 8px;
+    background-color: #ff4741; 
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 50px;
+    position: absolute; 
+    margin-left:-50px;
+    left:50%;
+}
+
